@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ft_ls" targetName="ft_ls" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d9a93b6-e2bf-4158-86da-27a80c8267b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="ft_ls" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1aw3ovJ4yNsBZB5uDGHsiTnil9b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.overridden" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\CLionProjects\ft_ls\cmake-build-debug" />
+      <recent name="C:\Users\dell\CLionProjects\ft_ls" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ft_ls" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="test1" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ft_ls" TARGET_NAME="ft_ls" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ft_ls" RUN_TARGET_NAME="ft_ls">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="543" y="90" key="#C/C++" timestamp="1587715015691">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="543" y="90" key="#C/C++/0.0.1600.860@0.0.1600.860" timestamp="1587715015691" />
+    <state x="467" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587674305866">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="467" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1587674305866" />
+    <state x="575" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587668958319">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="575" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1587668958319" />
+    <state x="530" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587669803434">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1587669803434" />
+    <state x="555" y="134" key="#xdebugger.evaluate" timestamp="1587715461808">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="555" y="134" key="#xdebugger.evaluate/0.0.1600.860@0.0.1600.860" timestamp="1587715461808" />
+    <state width="698" height="216" key="GridCell.Tab.0.bottom" timestamp="1587979078729">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="698" height="216" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1587979078729" />
+    <state width="698" height="216" key="GridCell.Tab.0.center" timestamp="1587979078729">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="698" height="216" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1587979078729" />
+    <state width="698" height="216" key="GridCell.Tab.0.left" timestamp="1587979078729">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="698" height="216" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1587979078729" />
+    <state width="698" height="216" key="GridCell.Tab.0.right" timestamp="1587979078729">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="698" height="216" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1587979078729" />
+    <state width="1557" height="275" key="GridCell.Tab.1.bottom" timestamp="1587719566944">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1587719566944" />
+    <state width="1557" height="275" key="GridCell.Tab.1.center" timestamp="1587719566944">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1587719566944" />
+    <state width="1557" height="275" key="GridCell.Tab.1.left" timestamp="1587719566944">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1587719566944" />
+    <state width="1557" height="275" key="GridCell.Tab.1.right" timestamp="1587719566944">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1587719566944" />
+    <state x="598" y="120" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587714908972">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="598" y="120" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1600.860@0.0.1600.860" timestamp="1587714908972" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1587978301693">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1587978301693" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <line>17</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

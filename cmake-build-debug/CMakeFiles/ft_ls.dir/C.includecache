@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dell/CLionProjects/ft_ls/ft_ls.h
+stdio.h
+-
+stdlib.h
+-
+sys/types.h
+-
+dirent.h
+-
+unistd.h
+-
+sys/stat.h
+-
+libft/libft.h
+C:/Users/dell/CLionProjects/ft_ls/libft/libft.h
+
+C:/Users/dell/CLionProjects/ft_ls/libft/libft.h
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+fcntl.h
+-
+
+C:/Users/dell/CLionProjects/ft_ls/main.c
+ft_ls.h
+C:/Users/dell/CLionProjects/ft_ls/ft_ls.h
+
